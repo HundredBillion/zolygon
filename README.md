@@ -20,6 +20,7 @@ Zolygon bridges two worlds:
 
 The goal: enable **exact and expressive** modeling in the same scene.
 
+```
 zolygon/
 ├── README.md
 ├── LICENSE
@@ -271,3 +272,4 @@ zolygon/
 │
 └── third_party/
     └── README.md
+```
